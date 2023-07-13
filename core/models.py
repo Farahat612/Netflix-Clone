@@ -6,7 +6,7 @@ import uuid
 # Create your models here.
 
 AGE_CHOICES = (
-    ('ALL' , 'ALL'),
+    ('All' , 'All'),
     ('Kids' , 'Kids'),
 )
 
