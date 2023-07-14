@@ -7,7 +7,11 @@ A simple Clone of Netflix built using Python, Django, and Tailwind CSS.
 
 The app was built during learning journey for learning purposes and practicing backend web development concepts using Django.
 The App covered good practice for Django forms, Django built-in authentication system, dynamic routing and Django Template Language.
-You can watch a Demo here if interested : https://tinyurl.com/NetflixClone-App
+
+## Watch a Demo
+
+https://github.com/Farahat612/Netflix-Clone/assets/67427124/672307af-bd9f-4b07-9232-af321bbbfa15
+
 
 
 ## Getting Started
