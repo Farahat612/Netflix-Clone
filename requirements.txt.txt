@@ -1,0 +1,7 @@
+django
+django-allauth
+dj-database-url 
+psycopg2
+pillow
+gunicorn 
+whitenoise
